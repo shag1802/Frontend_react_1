@@ -1,0 +1,91 @@
+/* Frame 5612 */
+
+/* Auto layout */
+#frame_5612 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 5px;
+  width: 330px;
+  height: 100px;
+  margin-top: 40px;
+}
+
+/* Inside auto layout */
+#frame_5612 > * {
+  flex: none;
+  order: 0;
+  align-self: stretch;
+  flex-grow: 0;
+}
+
+/* Frame 5586 */
+
+/* Auto layout */
+#frame_5586 {
+  display: flex;
+  flex-direction: row;
+  /* justify-content: center; */
+  align-items: center;
+  padding: 2px 12px;
+  gap: 10px;
+  width: 260px;
+  height: 80px;
+  background: linear-gradient(100.24deg, #E6EEFF 13.91%, #FFFFFF 116.73%);
+  border-radius: 15px;
+}
+
+/* Inside auto layout */
+#frame_5586 > * {
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+/* Text Element */
+#text_element_l {
+  width: 220px;
+  height: 60px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 20px;
+  color: #333333;
+  /* flex-grow: 1; */
+}
+
+/* Frame 5614 */
+
+/* Auto layout */
+#frame_5614 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0px 10px;
+  gap: 10px;
+  width: 330px;
+  height: 15px;
+}
+
+/* Inside auto layout */
+#frame_5614 > * {
+  flex: none;
+  order: 1;
+  align-self: stretch;
+  flex-grow: 0;
+}
+
+/* Time Element */
+#time_element {
+  width: 330px;
+  height: 15px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 15px;
+  color: #333333;
+  flex-grow: 1;
+}

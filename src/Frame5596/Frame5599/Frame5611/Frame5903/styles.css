@@ -1,0 +1,361 @@
+/* Frame 5903 */
+
+/* Auto layout */
+#frame_5903 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 10px;
+    width: 383px;
+    height: 60px;
+  }
+  
+  /* Inside auto layout */
+  #frame_5903 > * {
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 0;
+  }
+  
+  /* Popular tags for handbag */
+  #text_element {
+    width: 330px;
+    height: 20px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 20px;
+    color: #949494;
+  }
+  
+  #temp{
+    display: flex;
+    flex-direction: column;
+  }
+  /* Frame 5904 */
+  
+  /* Auto layout */
+  #frame_5904 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 5px;
+    width: 330px;
+    height: 30px;
+  }
+  
+  /* Inside auto layout */
+  #frame_5904 > * {
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 0;
+  }
+  
+  /* Frame 5902 */
+  
+  /* Auto layout */
+  #frame_5902 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 10px;
+    width: 301px;
+    height: 30px;
+  }
+  
+  /* Inside auto layout */
+  #frame_5902 > * {
+    flex: none;
+    order: 0;
+    flex-grow: 1;
+  }
+  
+  /* Frame 5796 */
+  
+  /* Auto layout */
+  #frame_5796 {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    gap: 10px;
+    width: 85px;
+    height: 32px;
+    background: #F2F7FF;
+    border: 1px solid #4C82EF;
+    border-radius: 5px;
+  }
+  
+  /* Inside auto layout */
+  #frame_5796 > * {
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+  }
+  
+  /* Frame 5755 */
+  
+  /* Auto layout */
+  #frame_5755 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 5px 10px;
+    gap: 10px;
+    width: 63px;
+    height: 30px;
+    border-radius: 5px;
+  }
+  
+  /* Clutch */
+  #text_element {
+    width: 43px;
+    height: 20px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 20px;
+    color: #4C82EF;
+  }
+  
+  /* Frame 5797 */
+  
+  /* Auto layout */
+  #frame_5797 {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    gap: 10px;
+    width: 162px;
+    height: 32px;
+    background: #F2F7FF;
+    border: 1px solid #4C82EF;
+    border-radius: 5px;
+  }
+  
+  /* Frame 5798 */
+  
+  /* Auto layout */
+  #frame_5798 {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    gap: 10px;
+    width: 90px;
+    height: 32px;
+    background: #F2F7FF;
+    border: 1px solid #4C82EF;
+    border-radius: 5px;
+  }
+  
+  /* Frame 5799 */
+  
+  /* Auto layout */
+  #frame_5799 {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    gap: 10px;
+    width: 150px;
+    height: 32px;
+    background: #F2F7FF;
+    border: 1px solid #4C82EF;
+    border-radius: 5px;
+  }
+  
+  /* Frame 5755 */
+  
+  /* Auto layout */
+  #frame_5755 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 5px 10px;
+    gap: 10px;
+    width: 63px;
+    height: 30px;
+    border-radius: 5px;
+  }
+  
+  /* Baggit */
+  #text_element {
+    width: 43px;
+    height: 20px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 20px;
+    color: #4C82EF;
+  }
+  
+  /* Fabric lining */
+  #text_element {
+    width: 80px;
+    height: 20px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 20px;
+    color: #4C82EF;
+  }
+  
+  /* Multi Compartment */
+  #text_element {
+    width: 130px;
+    height: 20px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 20px;
+    color: #4C82EF;
+  }
+  
+  /* Frame 5903 */
+  
+  /* Auto layout */
+  #frame_5903 {
+    display: flex;
+    /* flex-direction: row; */
+    /* flex-wrap: wrap; */
+    align-items: flex-start;
+    align-content: flex-start;
+    padding: 0px;
+    gap: 10px;
+    width: 200px;
+    height: 24px;
+    margin-top: 25px;
+  }
+  
+  /* chevron-right */
+  #chevron-right {
+    width: 24px;
+    height: 24px;
+  }
+  
+  /* Vector */
+  #vector {
+    position: absolute;
+    left: 0.5%;
+    right: 2.5%;
+    top: 47%;
+    bottom: 40%;
+    border: 2px solid #4C82EF;
+  }
+  #temp{
+    display: flex;
+    flex-direction: row;
+    gap : 10px;
+    width: 401px;
+  }
+  
+
+  /* Frame 5903 */
+#frame_5903 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 10px;
+    width: 330px;
+    height: 60px;
+  }
+  
+  /* Popular tags for handbag */
+  #text_element {
+    width: 330px;
+    height: 20px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 20px;
+    color: #949494;
+  }
+  
+  /* Text Box */
+  .text_box {
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    gap: 10px;
+    min-width: fit-content; /* Adjusts box size according to text */
+    height: 30px;
+    background: #f2f7ff;
+    color: #4C82EF;
+    /* border: 1px solid #4c82ef; */
+    /* border-radius: 5px; */
+  }
+  
+  /* Frame 5903 */
+#frame_5903 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 10px;
+    width: 383px;
+    height: 60px;
+  }
+  
+  /* Popular tags for handbag */
+  #text_element {
+    width: 330px;
+    height: 20px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 20px;
+    color: #949494;
+  }
+  
+  /* Text Box */
+  .text_box {
+    box-sizing: border-box;
+    display: inline-block; /* Ensure text boxes stay in one line */
+    padding: 0px 10px;
+    margin-right: 10px;
+    min-width: fit-content;
+    height: 30px;
+    line-height: 30px;
+    background: #f2f7ff;
+    color: #4C82EF;
+    border: 1px solid #4c82ef;
+    border-radius: 5px;
+  }
+  
+  /* Scrollable Container */
+  .scrollable_container {
+    display: flex;
+    overflow-x: auto; /* Enable horizontal scrolling */
+    white-space: nowrap; /* Prevent text from wrapping */
+  }
+  
+  /* Hide horizontal scrollbar */
+  .scrollable_container::-webkit-scrollbar {
+    display: none;
+  }
+  

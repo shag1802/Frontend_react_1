@@ -1,0 +1,110 @@
+/* Frame 5613 */
+
+#frame_5613 {
+    /* Auto layout */
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-start; /* Aligning content to the start of the main axis (which is vertical for a column layout) */
+    padding: 0px;
+    gap: 5px;
+    width: 388px;
+    height: 80px;
+    margin-top: 20px;
+  }
+  
+  /* Inside auto layout */
+  #frame_5613 > * {
+    flex: none;
+    order: 1;
+    align-self: stretch;
+    flex-grow: 0;
+  }
+  
+  /* Frame 5587 */
+  
+  #frame_5587 {
+    box-sizing: border-box;
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end; /* Aligning content to the end of the main axis (which is horizontal for a row layout) */
+    align-items: center;
+    padding: 10px 15px;
+    gap: 10px;
+    width: 213px;
+    height: 66px;
+    background: #DCF7C5;
+    border: 1px solid #FFFFFF;
+    border-radius: 15px;
+    margin-left: auto; /* Add this line to push Frame 5587 to the right */
+  }
+  
+  /* Inside auto layout */
+  #frame_5587 > * {
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+  }
+  
+  /* I am looking for a handbag with a long strap. */
+  
+  #text_element_r {
+    width: 183px;
+    height: 40px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 20px;
+    color: #333333;
+  }
+  
+  /* Inside auto layout */
+  #text_element_r {
+    order: 0;
+    flex-grow: 1;
+  }
+  
+  /* Frame 5614 */
+  
+  #frame_4614 {
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: flex-start;
+    padding: 0px 10px;
+    gap: 10px;
+    width: 371px;
+    height: 15px;
+  }
+  
+  /* Inside auto layout */
+  #frame_4614 > * {
+    flex: none;
+    order: 1;
+    align-self: stretch;
+    flex-grow: 0;
+  }
+  
+  /* 4:46 PM */
+  
+  #time_element_r {
+    width: 310px;
+    height: 15px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 15px;
+    text-align: right;
+    color: #333333;
+  }
+  
+  /* Inside auto layout */
+  #time_element_r {
+    order: 0;
+    flex-grow: 1;
+  }
+  

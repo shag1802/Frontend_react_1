@@ -1,0 +1,235 @@
+/* styles.css */
+
+/* Frame 5610 */
+.frame_5610 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    gap: 10px;
+    width: 360px;
+    height: 180px;
+    background: linear-gradient(100.27deg, #EFF3FD 33.17%, rgba(239, 243, 253, 0) 122.24%);
+    border: 2px solid #FFFFFF;
+    flex: none;
+    order: 2;
+    align-self: stretch;
+    flex-grow: 0;
+  }
+  
+  /* Frame 5619 */
+  .frame_5619 {
+    width: 340px;
+    height: 40px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+  }
+  
+  /* Frame 5618 */
+  .frame_5618 {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 0px 10px 0px 20px;
+    position: absolute;
+    width: 265px;
+    height: 40px;
+    left: 0px;
+    top: 0px;
+    background: #FFFFFF;
+    border: 1px solid #E3ECFF;
+    border-radius: 10px;
+  }
+  
+  /* Type your message */
+  .type_your_message {
+    width: 215px;
+    height: 20px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 20px;
+    color: #949494;
+    border: none;
+    outline: none;
+    padding: 5px; /* Adjusted padding */
+    margin: 0;
+    background: #FFFFFF; /* White background */
+    caret-color: #949494;
+  }
+  
+  /* paperclip */
+  .paperclip {
+    width: 20px;
+    height: 20px;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+  }
+  
+  /* Vector */
+  .vector {
+    position: absolute;
+    left: 8.34%;
+    right: 10.67%;
+    top: 8.35%;
+    bottom: 8.34%;
+    border: 2px solid #949494;
+  }
+  
+  /* Frame 5617 */
+  .frame_5617 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    /* padding: 8px 40px; */
+    gap: 10px;
+    position: absolute;
+    width: 70px;
+    height: 40px;
+    left: 270px;
+    top: 0px;
+    background-image: url(Vector\(1\).png);
+    background : no-repeat;
+    background-color: blue;
+    border-radius: 10px;
+  }
+  
+  /* Frame 5620 */
+  .frame_5620 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    gap: 5px;
+    width: 340px;
+    height: 20px;
+    flex: none;
+    order: 1;
+    align-self: stretch;
+    flex-grow: 0;
+    margin-top: 30px;
+  }
+  
+  /* Powered by */
+  .powered_by {
+    width: 77px;
+    height: 20px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 20px;
+    color: #B1B1B1;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+  }
+  
+  /* Krunk.ai */
+  .krunk_ai {
+    width: 55px;
+    height: 20px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 20px;
+    color: #7A7F8C;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+  }
+  
+  /* Logo */
+  .logo {
+    width: 18px;
+    height: 18px;
+    background: url(Logo.svg);
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+  }
+
+
+  /* styles.css */
+
+/* Frame 5610 */
+.frame_5610 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  gap: 10px;
+  width: 392px;
+  height: 100px;
+  background: linear-gradient(100.27deg, #EFF3FD 33.17%, rgba(239, 243, 253, 0) 122.24%);
+  border: 2px solid #FFFFFF;
+  border-radius: 0px 0px 20px 20px;
+  position: relative; /* Added position relative */
+  box-sizing: border-box; /* Added box sizing */
+  margin-top: 120px;
+}
+
+/* Frame 5619 */
+/* .frame_5619 {
+  width: 100%; /* Adjusted width */
+  /* height: 100%; Adjusted height */
+/* }  */
+
+/* Frame 5618 */
+.frame_5618 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 0px 10px 0px 20px;
+  position: absolute;
+  bottom: 10px; /* Adjusted positioning */
+  right: 10px; /* Adjusted positioning */
+  width: 292px; /* Adjusted width */
+  height: 50px; /* Adjusted height */
+  background: #FFFFFF;
+  border: 1px solid #E3ECFF;
+  border-radius: 10px;
+}
+
+/* Type your message */
+.type_your_message {
+  width: calc(100% - 50px); /* Adjusted width */
+  height: 100%; /* Adjusted height */
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 20px;
+  color: #949494;
+  border: none;
+  outline: none;
+  padding: 0;
+  margin: 0;
+  background: #FFFFFF;
+  caret-color: #949494;
+}
+
+/* paperclip */
+.paperclip {
+  width: 20px;
+  height: 20px;
+}
+
+/* Vector */
+.vector {
+  position: absolute;
+  left: 8px; /* Adjusted positioning */
+  top: 8px; /* Adjusted positioning */
+  border: 2px solid #949494;
+}

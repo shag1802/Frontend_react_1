@@ -1,0 +1,189 @@
+/* Frame 5629 */
+
+#frame_5629 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 5px;
+    width: 330px;
+    height: 161px;
+    margin-top: 20px;
+  }
+  
+  /* Frame 5588 */
+  
+  #frame_5588 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 10px;
+    gap: 10px;
+    width: 260px;
+    height: 141px;
+    background: linear-gradient(114.92deg, #E6EEFF 34.14%, #FAFCFF 105.26%);
+    border-radius: 20px;
+  }
+  
+  /* Frame 5590 */
+  
+  #frame_5590 {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    /* justify-content: center; */
+    align-items: center;
+    padding: 10px;
+    gap: 11px;
+    width: 240px;
+    height: 71px;
+    background: #FFFFFF;
+    border-radius: 10px;
+  }
+  
+  /* Frame 5591 */
+  
+  #frame_5591 {
+    width: 70px;
+    height: 50px;
+    background: url('/home/shaurya/Downloads/Frame 5591.png');
+    border-radius: 5px;
+  }
+  
+  /* Frame 5594 */
+  
+  #frame_5594 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px 5px;
+    gap: 7px;
+    width: 133.41px;
+    height: 51px;
+  }
+  
+  /* Frame 5615 */
+  
+  #frame_5615 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    gap: 5px;
+    width: 123.41px;
+    height: 20px;
+  }
+  
+  /* Frame 5592 */
+  
+  #frame_5592 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    gap: 10px;
+    width: 133px;
+    height: 20px;
+  }
+  
+  /* Bags on Timpu */
+  
+  #frame_5592 #bags-on-timpu {
+    width: 99px;
+    height: 20px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 20px;
+    color: #333333;
+  }
+  
+  /* Vector */
+  
+  #frame_5592 #vector1 {
+    width: 15.8px;
+    height: 16px;
+    background: url(Vector.png);
+    /* border: 1px solid #F2CF18; */
+  }
+  
+  /* Frame 5616 */
+  
+  #frame_5616 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px;
+    gap: 5px;
+    width: 123.41px;
+    height: 24px;
+  }
+  
+  /* 1123 products */
+  
+  #frame_5616 #products {
+    margin: 0;
+    width: 107px;
+    height: 24px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    color: #949494;
+  }
+  
+  /* chevron-right */
+  
+  #frame_5616 #chevron-right {
+    margin: 0 auto;
+    width: 24px;
+    height: 24px;
+  }
+  
+  /* Or set filter and help us choose the best bag for you. */
+  
+  #or-set-filter {
+    width: 230px;
+    height: 40px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 20px;
+    margin-left: 5px;
+    color: #333333;
+  }
+  
+  /* Frame 5614 */
+  
+  #frame_5614 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px 10px;
+    gap: 10px;
+    width: 330px;
+    height: 15px;
+  }
+  
+  /* 4:48 PM */
+  
+  #frame_5614 #time {
+    width: 310px;
+    height: 15px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 15px;
+    color: #333333;
+  }
+  
